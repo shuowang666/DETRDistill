@@ -1,7 +1,7 @@
 <div align="center">
 <h1> DETRDistill:A Universal Knowledge Distillation Framework for DETR-families </h1>
 <h3>A Universal Knowledge Distillation Framework for DETR-families</h3>
-<br>Jiahao Chang, Shuo Wang, Hai-Ming Xu, Zehui Chen, Chenhongyi Yang, Feng Zhao. 
+<br>Jiahao Chang*, Shuo Wang*, Hai-Ming Xu*, Zehui Chen, Chenhongyi Yang, Feng Zhao. 
 <br>
 
 <div><a href="https://arxiv.org/pdf/2211.10156.pdf">[Paper] </a></div> 
