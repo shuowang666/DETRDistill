@@ -1,5 +1,5 @@
 <div align="center">
-<h1> DETRDistill </h1>
+<h1> DETRDistill:A Universal Knowledge Distillation Framework for DETR-families </h1>
 <h3>A Universal Knowledge Distillation Framework for DETR-families</h3>
 <br>Jiahao Chang, Shuo Wang, Hai-Ming Xu, Zehui Chen, Chenhongyi Yang, Feng Zhao. 
 <br>
